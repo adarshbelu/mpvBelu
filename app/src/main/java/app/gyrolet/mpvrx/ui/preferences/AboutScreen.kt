@@ -1,7 +1,7 @@
-package app.gyrolet.mpvrx.ui.preferences
+package app.gyrolet.mpvbelu.ui.preferences
 
-import app.gyrolet.mpvrx.ui.icons.Icon
-import app.gyrolet.mpvrx.ui.icons.Icons
+import app.gyrolet.mpvbelu.ui.icons.Icon
+import app.gyrolet.mpvbelu.ui.icons.Icons
 
 import android.app.ActivityManager
 import android.content.Context
@@ -65,13 +65,13 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.core.net.toUri
 import androidx.lifecycle.viewmodel.compose.viewModel
-import app.gyrolet.mpvrx.BuildConfig
-import app.gyrolet.mpvrx.R
-import app.gyrolet.mpvrx.presentation.Screen
-import app.gyrolet.mpvrx.presentation.crash.CrashActivity.Companion.collectDeviceInfo
-import app.gyrolet.mpvrx.ui.utils.LocalBackStack
-import app.gyrolet.mpvrx.ui.utils.popSafely
-import app.gyrolet.mpvrx.utils.update.UpdateViewModel
+import app.gyrolet.mpvbelu.BuildConfig
+import app.gyrolet.mpvbelu.R
+import app.gyrolet.mpvbelu.presentation.Screen
+import app.gyrolet.mpvbelu.presentation.crash.CrashActivity.Companion.collectDeviceInfo
+import app.gyrolet.mpvbelu.ui.utils.LocalBackStack
+import app.gyrolet.mpvbelu.ui.utils.popSafely
+import app.gyrolet.mpvbelu.utils.update.UpdateViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.serialization.Serializable
 
@@ -212,7 +212,7 @@ object AboutScreen : Screen {
                     color = cs.primary.copy(alpha = 0.16f),
                   ) {
                     Text(
-                      text = "By Ritesh Pandit",
+                      text = "By Adarsh",
                       modifier = Modifier.padding(horizontal = 12.dp, vertical = 4.dp),
                       style = MaterialTheme.typography.titleSmall,
                       fontWeight = FontWeight.SemiBold,
