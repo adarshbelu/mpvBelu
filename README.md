@@ -23,11 +23,7 @@ No ads. No trackers. No noise. Just a serious video player with a calmer surface
 
 ### Stable Release
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Riteshp2001/mpvRx/releases)
-
-### Preview Builds
-
-[![Download Preview Builds](https://img.shields.io/badge/Download-Preview%20Builds-red?style=for-the-badge)](https://riteshp2001.github.io/mpvRx/)
+[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/adarshbelu/mpvBelu/releases)
 
 If something breaks, feels off, or deserves another pass, report it in the [Issues](https://github.com/adarsh elu/mpvBelu/issues).
 
