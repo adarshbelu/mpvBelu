@@ -29,7 +29,7 @@ No ads. No trackers. No noise. Just a serious video player with a calmer surface
 
 [![Download Preview Builds](https://img.shields.io/badge/Download-Preview%20Builds-red?style=for-the-badge)](https://riteshp2001.github.io/mpvRx/)
 
-If something breaks, feels off, or deserves another pass, report it in the [Issues](https://github.com/Riteshp2001/mpvRx/issues).
+If something breaks, feels off, or deserves another pass, report it in the [Issues](https://github.com/adarsh elu/mpvBelu/issues).
 
 ## Build
 
