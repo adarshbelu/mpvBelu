@@ -25,7 +25,7 @@ No ads. No trackers. No noise. Just a serious video player with a calmer surface
 
 [![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/adarshbelu/mpvBelu/releases)
 
-If something breaks, feels off, or deserves another pass, report it in the [Issues](https://github.com/adarsh elu/mpvBelu/issues).
+If something breaks, feels off, or deserves another pass, report it in the [Issues](https://github.com/adarsh belu/mpvBelu/issues).
 
 ## Build
 
