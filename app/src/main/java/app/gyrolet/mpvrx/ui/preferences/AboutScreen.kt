@@ -1,4 +1,4 @@
-package app.gyrolet.mpvbrx.ui.preferences
+package app.gyrolet.mpvrx.ui.preferences
 
 import app.gyrolet.mpvrx.ui.icons.Icon
 import app.gyrolet.mpvrx.ui.icons.Icons
