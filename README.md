@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" alt="MpvRx icon" width="128" />
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" alt="MpvBelu icon" width="128" />
 </p>
 
-# MpvRx
+# MpvBelu
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Riteshp2001/mpvRx.svg?logo=github&label=GitHub&cacheSeconds=3600)](https://github.com/Riteshp2001/mpvRx/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/Riteshp2001/mpvRx/total?logo=github&cacheSeconds=3600)](https://github.com/Riteshp2001/mpvRx/releases/latest)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/adarshbelu/mpvBelu.svg?logo=github&label=GitHub&cacheSeconds=3600)](https://github.com/adarshbelu/mpvBelu/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/adarshbelu/mpvBelu/total?logo=github&cacheSeconds=3600)](https://github.com/adarshbelu/mpvBelu/releases/latest)
 
-`MpvRx` is a fork in the `mpvExtended` lineage, carried forward by one of the original contributors behind that project. It keeps the `mpv-android` and `libmpv` backbone, then pushes harder on the details that shape everyday playback: browsing, subtitles, playlists, resume behavior, and player polish.
+`MpvBelu` is a fork in the `mpvExtended` lineage, carried forward by one of the original contributors behind that project. It keeps the `mpv-android` and `libmpv` backbone, then pushes harder on the details that shape everyday playback: browsing, subtitles, playlists, resume behavior, and player polish.
 
 No ads. No trackers. No noise. Just a serious video player with a calmer surface and a sharper edge.
 
@@ -17,7 +17,7 @@ No ads. No trackers. No noise. Just a serious video player with a calmer surface
 
 ## Why This Fork Exists
 
-`mpvExtended` already proved how far an Android `mpv` player could go. `MpvRx` keeps that spirit, but leans into feel: fewer dead taps, better timing, stronger playback stability, and less friction between you and the file you actually wanted to watch.
+`mpvExtended` already proved how far an Android `mpv` player could go. `MpvBelu` keeps that spirit, but leans into feel: fewer dead taps, better timing, stronger playback stability, and less friction between you and the file you actually wanted to watch.
 
 ## Download
 
