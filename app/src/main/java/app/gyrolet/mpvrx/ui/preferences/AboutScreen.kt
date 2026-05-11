@@ -1,7 +1,7 @@
-package app.gyrolet.mpvbelu.ui.preferences
+package app.gyrolet.mpvbrx.ui.preferences
 
-import app.gyrolet.mpvbelu.ui.icons.Icon
-import app.gyrolet.mpvbelu.ui.icons.Icons
+import app.gyrolet.mpvrx.ui.icons.Icon
+import app.gyrolet.mpvrx.ui.icons.Icons
 
 import android.app.ActivityManager
 import android.content.Context
