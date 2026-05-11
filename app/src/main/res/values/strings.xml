@@ -284,17 +284,17 @@
   <string name="anime4k_quality_balanced">Balanced</string>
   <string name="anime4k_quality_high">High</string>
   <string name="pref_about_title">About</string>
-  <string name="pref_about_summary">Acknowledgments, licenses</string>
+  <string name="pref_about_summary">MpvBelu Developed by Adarsh</string>
   <string name="pref_about_oss_libraries">Libraries</string>
-  <string name="pref_about_donate_title">Donate</string>
+  <string name="pref_about_donate_title">Support</string>
   <string name="pref_about_donate_kofi">Ko-fi</string>
   <string name="pref_about_donate_kofi_summary">Support the developer on Ko-fi</string>
-  <string name="pref_about_donate_kofi_url" translatable="false">https://ko-fi.com/adityanarvekar</string>
-  <string name="pref_about_donate_paypal">PayPal</string>
+  <string name="pref_about_donate_kofi_url" translatable="false">https://ko-fi.com/Adarsh</string>
+  <string name="pref_about_donate_paypal">Enjoy the App!</string>
   <string name="pref_about_donate_paypal_summary">Support the developer on PayPal</string>
-  <string name="pref_about_donate_paypal_url" translatable="false">https://paypal.me/aadinarvekar</string>
-  <string name="pref_about_donate_upi">UPI</string>
-  <string name="pref_about_donate_upi_id" translatable="false">aadiinarvekar@upi</string>
+  <string name="pref_about_donate_paypal_url" translatable="false">Adarsh</string>
+  <string name="pref_about_donate_upi">Enjoy the App!</string>
+  <string name="pref_about_donate_upi_id" translatable="false">Adarsh</string>
   <string name="player_sheets_add_ext_sub">Add external subtitles</string>
   <string name="player_sheets_add_ext_audio">Add external audio tracks</string>
   <string name="player_sheets_tracks_off">Off</string>
